@@ -1,0 +1,33 @@
+body{
+font-size: larger;
+background-image:url('../Images/bodyfitness.jpg');
+background-attachment: fixed;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+i{
+color:0859ce;
+}
+input[type="number"]{
+width:168px;
+}
+input[type="number"]:hover{
+background-color: #C2C2C2;
+}
+
+input[type="submit"]:hover{
+background-color: red;
+}
+
+input[type="reset"]:hover{
+background-color: green;
+}
+
+
+
+h2,p{
+
+   border-radius: 5px;
+    background-color: #f2f2f2;
+}
